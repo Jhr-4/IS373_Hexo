@@ -1,9 +1,6 @@
 name: Pages
 
 on:
-  push:
-    branches:
-      - main # default branch
   workflow_run:
     workflows: ["Test Hexo Site"]
     types:
