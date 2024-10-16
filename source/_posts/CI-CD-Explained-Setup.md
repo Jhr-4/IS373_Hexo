@@ -1,5 +1,5 @@
 ---
-title: CI/CD Explained
+title: CI/CD Explained & Setup
 ---
 
 The most basic definition of CI/CD is having you code being automatically tested and then automatically deployed.
@@ -19,4 +19,19 @@ The most basic definition of CI/CD is having you code being automatically tested
 
 * **GitHub Actions:** You might be wondering how to set it up, however it is made pretty simple by GitHub actions in which you can use a template to start or create your own .yml file that sets up the actions that trigger the CI/CD process and what exactly to do. 
 
-To find out more on the usage process checkout [CI-CD-Usage](/CI-CD-PipelineUsage/)
+To find out more on the usage and setup process checkout the section below.
+
+---
+
+## Initial Setup
+
+In order to setup a CI/CD pipeline on Github, you must initialize it within the "Actions" tab in your repo.
+
+![alt text](<media/Screenshot 2024-09-26 150337.png>)
+
+You will be met with this screen. From there, click "Configure". Then, there will be a file with a basic workflow file template and a .yml extension.
+
+![alt text](<media/Screenshot 2024-09-26 150855.png>)
+
+
+This is your workflow file, which is responsible for running your application continously as you edit, make changes, and push those changes to Github. You workflow file can also feature responsibilities such as logging into Docker, pushing images to Docker, running software tests, as well as installing dependencies.

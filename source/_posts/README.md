@@ -43,6 +43,4 @@ date: 2024-10-14 20:03:19
 
 Learn more on how you can automate your code being tested and deployed via a CI/CD pipeline.
 
-### I. [CI/CD Explained](/CI-CD-Explained/)
-
-### II. [CI/CD Usage](/CI-CD-PipelineUsage/)
+### I. [CI/CD Explained & Setup](/CI-CD-Explained-Setup/)
