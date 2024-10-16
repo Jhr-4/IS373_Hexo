@@ -37,7 +37,7 @@ jobs:
 
       # Wait for the Hexo server to be ready
       - name: Wait for Hexo server to start
-        run: npx wait-on http://localhost:4000/
+        run: npx wait-on http://localhost:4000/IS373_Hexo/
 
       # Checkout the Playwright test repository and place it into a new folder/path
       - name: Checkout Playwright test repository
