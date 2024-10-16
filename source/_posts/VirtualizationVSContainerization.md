@@ -26,4 +26,4 @@ Advantages
 
 Containerization is a better choice for a lot of applications, especially when considering the need for rapid deployment, scalability and optimizing resources. Virtualization could be valuable for environments that require full OS isolation but containers are typically the favorable option. 
 
-<img src="/media/ContainersVsVM.svg" width="50%">
+<img src="/IS373_Hexo/media/ContainersVsVM.svg" width="50%">

@@ -9,7 +9,7 @@ date: 2024-10-14 20:03:19
 # Student Guide to Docker 📚
 ## Intro: What Is Docker? 
 
-<img src="/media/DockerBaiscFlow.png" align=right width="50%">
+<img src="/IS373_Hexo/media/DockerBaiscFlow.png" align=right width="50%">
 
 **Docker** is a tool that performs containerization, allowing a user to easily run and manage many containers. 
 
@@ -24,23 +24,23 @@ date: 2024-10-14 20:03:19
 
 
 ## I. Learn more about why you would use Dockers containerization over just a virtual machine: 
-### [Virtualization vs. Containerization](/VirtualizationVSContainerization/)
-<img src="/media/ContainersVsVM.svg" width="50%">
+### [Virtualization vs. Containerization](/IS373_Hexo/VirtualizationVSContainerization/)
+<img src="/IS373_Hexo/media/ContainersVsVM.svg" width="50%">
 
 
 ## II. Don't other containerization softwares like Kubernetes exist? Why use Docker over them? 
-### [Docker vs. Kubernetes](/DockerVSKubernetes/)
+### [Docker vs. Kubernetes](/IS373_Hexo/DockerVSKubernetes/)
 <!--SVG From svgrepo-->
-<img src="/media/docker-svgrepo-com.svg" width="10%">
+<img src="/IS373_Hexo/media/docker-svgrepo-com.svg" width="10%">
 <!--SVG From svgrepo-->
-<img src="/media/kubernetes-svgrepo-com.svg" width="10%">
+<img src="/IS373_Hexo/media/kubernetes-svgrepo-com.svg" width="10%">
 
 
 ## III. Convinced? You can learn how to install Docker and set it up here: 
-### <!--SVG From Google Fonts--> <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 650" width="24px" fill="#5985E1"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> [Installation Process](/InstallationSetup/)
+### <!--SVG From Google Fonts--> <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 650" width="24px" fill="#5985E1"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> [Installation Process](/IS373_Hexo/InstallationSetup/)
 
 # Student Guide to CI/CD 📚
 
 Learn more on how you can automate your code being tested and deployed via a CI/CD pipeline.
 
-### I. [CI/CD Explained & Setup](/CI-CD-Explained-Setup/)
+### I. [CI/CD Explained & Setup](/IS373_Hexo/CI-CD-Explained-Setup/)
