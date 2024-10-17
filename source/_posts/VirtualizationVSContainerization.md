@@ -1,5 +1,6 @@
 ---
 title: Virtualization vs. Containerization
+date: 2024-10-15
 ---
 
 Both virtualization and containerization are standard tech used in modern computing. Both methods are used to maximize efficiency of hardware resources, however they do so through different approaches.

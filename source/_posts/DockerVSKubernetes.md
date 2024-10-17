@@ -1,5 +1,6 @@
 ---
 title: Docker vs Kubernetes
+date: 2024-10-14
 ---
 
 While both Docker and Kubernetes are tools that are frequently used in app deployments, their capabilities differ, especially in the context of containerization.

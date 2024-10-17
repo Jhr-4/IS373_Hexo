@@ -1,5 +1,6 @@
 ---
 title: Installation & Setup
+date: 2024-10-13
 ---
 
 To install Docker on windows you first will need WSL 2 **(Minimum Req. Windows 10 ver. 2004)**
