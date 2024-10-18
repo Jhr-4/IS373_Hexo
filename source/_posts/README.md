@@ -3,7 +3,7 @@ title: Home
 date: 2024-10-16
 ---
 
-# Project Topic: AI News 📰
+# Project Topic:: AI News 📰
 
 
 # Student Guide to Docker 📚
